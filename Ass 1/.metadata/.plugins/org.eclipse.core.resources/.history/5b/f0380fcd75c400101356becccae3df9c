@@ -1,0 +1,38 @@
+package que03;
+
+public class Tester {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		List l1 = new List();
+		
+		l1.addFirst(50);
+		l1.addFirst(40);
+		l1.addFirst(30);
+		l1.addFirst(20);
+		l1.addFirst(10);
+		l1.addLast(70);
+		
+	
+		
+		System.out.println("size of list is: "+l1.size());
+		
+		l1.display();
+		
+		System.out.println();
+
+		
+		//l1.deleteFirst();
+		l1.deleteLast();
+		
+		
+		l1.display();
+		
+
+		
+		
+
+	}
+
+}

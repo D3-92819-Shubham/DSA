@@ -1,0 +1,23 @@
+package que02;
+
+import que02.List;
+
+public class Tester {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		List l1 = new List();
+		
+		l1.AddbySort(10);
+		l1.AddbySort(20);
+		l1.AddbySort(30);
+		l1.AddbySort(40);
+		
+		l1.display();
+		
+		
+
+
+	}
+}

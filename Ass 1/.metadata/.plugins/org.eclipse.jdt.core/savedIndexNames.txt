@@ -1,0 +1,5 @@
+INDEX VERSION 1.134+C:\Users\DELL\OneDrive\Desktop\DAC\DSA\DAC ASSIGNMENTS\Ass 1\.metadata\.plugins\org.eclipse.jdt.core
+2455359484.index
+1865797976.index
+2086121168.index
+189832774.index
